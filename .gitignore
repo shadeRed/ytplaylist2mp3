@@ -1,0 +1,4 @@
+node_modules/
+download/*
+!download/.gitkeep
+api.json
